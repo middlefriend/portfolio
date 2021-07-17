@@ -1,0 +1,11 @@
+#IDE
+.idea/
+
+#cache
+__pycache__
+
+#virtual env
+env/
+
+#db
+db.*
