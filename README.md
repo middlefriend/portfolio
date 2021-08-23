@@ -26,6 +26,6 @@
   * https://github.com/horiJY/springboot2-webservice.git
   * 기간: 2021-04 ~ 2021.06
   * 참여인원 : 혼자
-  * 요약 : spring mvc구조로 view -* dto -* controller -* entity -* repository -* JPA -* DB 의 흐름을 가진 웹 게시판을 만들어
-           github commit 시 Travis CI * S3 * CodeDeploy * EC2 * Nginx(Proxy)를 통한 무중단 배포 구현
+  * 요약 : spring mvc구조로 view -> dto -> controller ->  JPA -> DB 의 흐름을 가진 웹 게시판을 만들어
+           github commit 시 Travis CI > S3 * CodeDeploy > EC2 * Nginx(Proxy)를 통한 무중단 배포 구현
            
