@@ -19,9 +19,9 @@
 
 3. DRF(REST API)
   * 기간 : 2021-02 ~ 2021.03
-  * 참여인원 : 혼자
-  * 요약 : MVC 패턴 이해, DRF와 ORM 이해, web app 만들어 EC2에 배포해보기 + drf-yasg로 API가이드 문서 자동으로 생성해보기
-여기는 추가
+  * 혼자
+  * 요약 : MVC 패턴 이해, 만들어 EC2에 배포해보기 + drf-yasg로 API가이드 문서 자동으로 생성해보기
+여기는 삭제 후 추가
 
   * https://github.com/horiJY/springboot2-webservice.git
   * 기간: 2021-04 ~ 2021.06
